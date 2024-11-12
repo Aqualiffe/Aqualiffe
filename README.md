@@ -1,6 +1,35 @@
+# Evgeniya Zelenkova
+
+## Contacts
+* **Location:** Russia, Nizhny Novgorod
+<!-- * **Phone:** +7 910 877 42 34
+* **Email:** evgeniia.er@gmail.com -->
+* **GitHub:** https://github.com/Aqualiffe
+  
+## Experience
+* [portfolio fl.ru](https://www.fl.ru/users/alberta/portfolio/)
+
+## Education
+* N. I. Lobachevsky State University of Nizhny Novgorod, VMK
+* WayUP "Web layout designer: getting started"
+* JavaScript Manual on learnjavascript.ru 
+* RS Schools Course «JavaScript/Front-end. Stage 0» 
+* RS Schools Course «JavaScript/Front-end. Stage 1» 
+
+## Languages
+* English - Intermediate/Upper-intermediate
+
+## Skills
+* HTML5, CSS3
+* JavaScript Basics
+* Git, GitHub
+* VS Code
+* Adobe Photoshop
+
+
 ## Верстка
 * Coffee House - https://aqualiffe.github.io/aqualiffe-JSFE2023Q4/coffee-house/
-* library - https://aqualiffe.github.io/aqualiffe-JSFEPRESCHOOL2023Q2/library/ 
+* Library - https://aqualiffe.github.io/aqualiffe-JSFEPRESCHOOL2023Q2/library/ 
 
 
 ## Разное
