@@ -5,6 +5,7 @@
 <!-- * **Phone:** +7 910 877 42 34
 * **Email:** evgeniia.er@gmail.com -->
 * **GitHub:** https://github.com/Aqualiffe
+* **Codewars:** https://www.codewars.com/users/Aqualiffe
   
 ## Experience
 * [portfolio fl.ru](https://www.fl.ru/users/alberta/portfolio/)
