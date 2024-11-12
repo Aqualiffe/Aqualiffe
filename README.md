@@ -1,4 +1,13 @@
-## Hi there 👋
+## Верстка
+* Coffee House - https://aqualiffe.github.io/aqualiffe-JSFE2023Q4/coffee-house/
+* Hangman - https://aqualiffe.github.io/aqualiffe-JSFE2023Q4/hangman/
+* library - https://aqualiffe.github.io/aqualiffe-JSFEPRESCHOOL2023Q2/library/ 
+* image galery - https://aqualiffe.github.io/aqualiffe-JSFEPRESCHOOL2023Q2/image-galery/
+* audio player - https://aqualiffe.github.io/aqualiffe-JSFEPRESCHOOL2023Q2/js30-audio-player/
+* random game - https://aqualiffe.github.io/aqualiffe-JSFEPRESCHOOL2023Q2/random-game/
+
+## Разное
+* https://aqualiffe.github.io/cssMemeSlider/cssMemeSlider/index.html  
 
 <!--
 **Aqualiffe/Aqualiffe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
